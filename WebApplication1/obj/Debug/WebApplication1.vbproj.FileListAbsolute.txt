@@ -1,0 +1,2 @@
+C:\Users\kucho\Source\Repos\testing\WebApplication1\obj\Debug\WebApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\kucho\Source\Repos\testing\WebApplication1\obj\Debug\WebApplication1.vbproj.GenerateResource.Cache
